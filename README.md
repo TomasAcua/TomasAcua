@@ -51,12 +51,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+## 🚀 Proyectos Destacados  
+- [Proyecto libreria](https://github.com/TomasAcua/PWD-TPFinal)  
+- [Proyecto juego](https://github.com/TomasAcua/tp-final-pedw--juego-interactivo-)
+- [Proyecto pagina personal](https://github.com/TomasAcua/TomasAcua.github.io)    
